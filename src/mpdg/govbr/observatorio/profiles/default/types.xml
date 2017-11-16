@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<object name="portal_types" meta_type="Plone Types Tool">
+
+  <object name="BoaPratica"
+          meta_type="Factory-based Type Information with dynamic views"/>
+
+ <object name="Comentario"
+          meta_type="Factory-based Type Information with dynamic views"/>
+
+ <object name="Contador"
+          meta_type="Factory-based Type Information with dynamic views"/>
+          
+ <object name="NovaBoaPratica"
+          meta_type="Factory-based Type Information with dynamic views"/>
+          
+          
+</object>

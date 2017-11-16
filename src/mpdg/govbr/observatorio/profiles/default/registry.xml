@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<registry>
+  <record interface="mpdg.govbr.observatorio.controlpanel.IObservatorio_email" field="adm_observatorio">
+    <value>catia.parreira@planejamento.gov.br</value>
+  </record>
+  <record interface="mpdg.govbr.observatorio.controlpanel.IObservatorio_email" field="enviar_email_assinatura"></record>
+  <record interface="mpdg.govbr.observatorio.controlpanel.IObservatorio_email" field="enviar_email_adm"></record>
+  <record interface="mpdg.govbr.observatorio.controlpanel.IObservatorio_email" field="pratica_aprovada"></record>
+  <record interface="mpdg.govbr.observatorio.controlpanel.IObservatorio_email" field="comentario_info_admin"></record>
+  <record interface="mpdg.govbr.observatorio.controlpanel.IObservatorio_email" field="comentario_aprovado"></record>
+  <record interface="mpdg.govbr.observatorio.controlpanel.IObservatorio_email" field="comentario_reprovado"></record>
+  </registry>
