@@ -1,5 +1,6 @@
 mpdg.govbr.observatorio: observatorio
 ====================================
+[![Coverage Status](https://coveralls.io/repos/github/Samuelbsb/mpdg.govbr.observatorio/badge.svg?branch=master)](https://coveralls.io/github/Samuelbsb/mpdg.govbr.observatorio?branch=master) [![Build Status](https://travis-ci.org/Samuelbsb/mpdg.govbr.observatorio.svg?branch=master)](https://travis-ci.org/Samuelbsb/mpdg.govbr.observatorio)
 
 Introdução
 -----------
